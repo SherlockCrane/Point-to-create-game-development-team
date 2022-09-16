@@ -1,0 +1,4 @@
+repository "My project@ssl://wechat_os_qy04pvukwlt4ij41nquniar4i@sh03-plasticscm.unity.cn:8787"
+  path "/"
+    br "/main"
+    co "/main"
